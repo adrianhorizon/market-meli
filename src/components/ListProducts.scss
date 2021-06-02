@@ -1,0 +1,24 @@
+.product-list {
+  margin-bottom: 3rem;
+  background-color: #fff;
+}
+
+.product-list .card {
+  border: 0px;
+  width: 100%;
+}
+
+.product-list .card .card-body {
+  padding: 16px;
+}
+
+.product-list .card .card-body .row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.product-list .card hr {
+  margin: 0px 16px 0px 16px;
+  border: solid 1px;
+  border-color: #EEEEEE !important;
+}

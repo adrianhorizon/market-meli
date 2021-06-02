@@ -1,0 +1,39 @@
+.img-item-list {
+  width: 180px;
+  height: 180px;
+  border-radius: 20px;
+}
+
+.img-item-list-container {
+  width: 180px;
+  text-align: center;
+  display: block;
+}
+
+.text-col {
+  padding: 16px;
+}
+
+.address-text {
+  text-align: center;
+  color: #666666;
+}
+
+.price {
+  margin-bottom: 32px;
+}
+
+.price h5 {
+  font-size: 24px;
+  display: inline;
+  margin-bottom: 0px;
+}
+
+.price img {
+  vertical-align: baseline;
+}
+
+p.item-title {
+  color: #333333;
+  font-size: 18px;
+}
